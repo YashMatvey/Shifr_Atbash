@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shifr_Atbash", "Shifr_Atbash\Shifr_Atbash.csproj", "{D93247BD-241E-44D0-B9C4-A2D02E544F41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTest", "NunitTest\NunitTest.csproj", "{57A9F649-89F8-47EB-812C-F3382D1ECC9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D93247BD-241E-44D0-B9C4-A2D02E544F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93247BD-241E-44D0-B9C4-A2D02E544F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93247BD-241E-44D0-B9C4-A2D02E544F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93247BD-241E-44D0-B9C4-A2D02E544F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A9F649-89F8-47EB-812C-F3382D1ECC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A9F649-89F8-47EB-812C-F3382D1ECC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A9F649-89F8-47EB-812C-F3382D1ECC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A9F649-89F8-47EB-812C-F3382D1ECC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD331D27-46A0-4BAA-861A-1F7731C402A7}
+	EndGlobalSection
+EndGlobal
